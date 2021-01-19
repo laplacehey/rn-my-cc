@@ -15,6 +15,8 @@ local.properties
 /dist/
 /lib/
 
+android/
+ios/
 node_modules/
 web-build/
 web-report/
